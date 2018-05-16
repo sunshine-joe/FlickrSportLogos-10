@@ -1,0 +1,34 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>adidas_0_00187.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>442</ymin>
+			<xmax>288</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>440</ymin>
+			<xmax>537</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

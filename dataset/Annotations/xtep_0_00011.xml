@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>xtep_0_00011.jpg</filename>
+	<size>
+		<width>356</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xtep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>5</ymin>
+			<xmax>179</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>

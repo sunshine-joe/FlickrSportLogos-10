@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>nike_0_00045.jpg</filename>
+	<size>
+		<width>460</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>264</ymin>
+			<xmax>448</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

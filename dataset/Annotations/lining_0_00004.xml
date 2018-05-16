@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>lining_0_00004.jpg</filename>
+	<size>
+		<width>662</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lining</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>173</ymin>
+			<xmax>643</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

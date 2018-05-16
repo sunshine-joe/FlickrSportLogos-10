@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>361_0_00143.jpg</filename>
+	<size>
+		<width>620</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>361</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>262</ymin>
+			<xmax>524</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

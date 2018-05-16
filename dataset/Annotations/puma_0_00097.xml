@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>puma_0_00097.jpg</filename>
+	<size>
+		<width>683</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>546</ymin>
+			<xmax>446</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>

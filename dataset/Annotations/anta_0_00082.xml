@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>anta_0_00082.jpg</filename>
+	<size>
+		<width>633</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>390</ymin>
+			<xmax>504</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

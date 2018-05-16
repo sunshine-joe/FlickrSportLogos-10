@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>kappa_0_00020.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kappa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>241</ymin>
+			<xmax>347</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

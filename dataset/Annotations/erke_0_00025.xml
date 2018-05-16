@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>erke_0_00025.jpg</filename>
+	<size>
+		<width>549</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>erke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>278</ymin>
+			<xmax>357</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

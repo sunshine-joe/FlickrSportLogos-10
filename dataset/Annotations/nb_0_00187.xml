@@ -1,0 +1,22 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>nb_0_00187.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>529</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>254</ymin>
+			<xmax>458</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
